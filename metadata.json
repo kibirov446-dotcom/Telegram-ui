@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Glass",
+  "description": "Liquid Glass messenger interface with iOS 26 spring transitions and Scroll-to-Top clock gesture.",
+  "requestFramePermissions": []
+}
